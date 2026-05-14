@@ -1,0 +1,18 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/logos/gpay_logo_transaparent.png
+  
+  # Dark mode alternatives
+  color_dark: "#121212"
+  image_dark: assets/logos/gpay_logo_transaparent.png
+
+  android: true
+  ios: true
+  web: false
+
+  android_12:
+    image: assets/logos/gpay_logo_transaparent.png
+    color: "#ffffff"
+    # Android 12+ dark mode handling
+    image_dark: assets/logos/gpay_logo_transaparent.png
+    color_dark: "#121212"
